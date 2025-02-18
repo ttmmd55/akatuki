@@ -3915,7 +3915,9 @@ a.mapboxgl-ctrl-logo {
 }
 
 .wg-fomr-book form .bot {
-    width: 13.6%;
+    display: flex;
+    min-width: 120px;
+    width: auto;
 }
 
 .wg-fomr-book p {
