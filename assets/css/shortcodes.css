@@ -3899,7 +3899,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .wg-fomr-book form .columns {
-    gap: 20px;
+    gap: 24px;
     padding-right: 9px;
 }
 
@@ -3915,9 +3915,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .wg-fomr-book form .bot {
-    display: flex;
-    min-width: 120px;
-    width: auto;
+    width: 13.6%;
 }
 
 .wg-fomr-book p {

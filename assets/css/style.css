@@ -1977,7 +1977,7 @@ a:focus {
     margin-right: -2px;
 }
 
-.footer .footer-left::after {
+/* .footer .footer-left::after {
     position: absolute;
     content: '';
     width: 38px;
@@ -1987,7 +1987,7 @@ a:focus {
     background-color: #c6ac83;
 }
 
-.footer .footer-right::after {
+. .footer-right::after {
     position: absolute;
     content: '';
     width: 38px;
@@ -1995,7 +1995,7 @@ a:focus {
     left: 32px;
     bottom: 54px;
     background-color: #c6ac83;
-}
+} */
 
 .footer .footer-center {
     text-align: center;
@@ -2014,7 +2014,7 @@ a:focus {
 .widget-social-text ul {
     display: flex;
     align-items: center;
-    gap: 15px 32px;
+    gap: 15px 18px;
     justify-content: center;
 }
 

@@ -140,7 +140,7 @@
     .wg-fomr-book form .columns {
         padding-right: 0;
         flex-wrap: wrap;
-        gap: 15px;
+        gap: 24px;
     }
     .wg-fomr-book form .phone, 
     .wg-fomr-book form .name {

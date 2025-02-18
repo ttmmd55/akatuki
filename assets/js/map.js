@@ -3,8 +3,8 @@ if (document.getElementById('map')){
         const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/light-v11',
-        center: [-0.108968,51.492933],
-        zoom: 14
+        center: [-0.131532, 51.553267],
+        zoom: 12
     });
     
     const geojson = {
@@ -14,8 +14,15 @@ if (document.getElementById('map')){
             type: 'Feature',
             geometry: {
                 type: 'Point',
-                coordinates: [-0.108968,51.492933]
+                coordinates: [-0.14166561287145382, 51.59097668916141]
             }
+            },
+            {
+                type: 'Feature',
+                geometry: {
+                    type: 'Point',
+                    coordinates: [-0.12139841658087784, 51.51555725675136]
+                }
             }
         ]
         };
