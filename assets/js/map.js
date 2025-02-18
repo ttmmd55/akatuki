@@ -43,7 +43,7 @@ if (document.getElementById('map1')) {
         container: 'map1',
         style: 'mapbox://styles/mapbox/light-v11',
         center: [-0.108968,51.492933],
-        zoom: 14
+        zoom: 8
     });
     
     const geojson1 = {
@@ -53,7 +53,7 @@ if (document.getElementById('map1')) {
             type: 'Feature',
             geometry: {
                 type: 'Point',
-                coordinates: [-0.108968,51.492933]
+                coordinates: [-0.14166561287145382, 51.59097668916141]
             }
             }
         ]
@@ -85,7 +85,7 @@ if (document.getElementById('map2')) {
             type: 'Feature',
             geometry: {
                 type: 'Point',
-                coordinates: [-0.108968,51.492933]
+                coordinates: [-0.12139841658087784, 51.51555725675136]
             }
             }
         ]
