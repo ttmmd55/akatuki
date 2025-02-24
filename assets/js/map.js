@@ -38,12 +38,12 @@ if (document.getElementById('map')){
 }
 
 if (document.getElementById('map1')) {
-    mapboxgl.accessToken = 'pk.eyJ1IjoidGhlbWVzZmxhdCIsImEiOiJjbGt3NGxtYncwa2F2M21saHM3M21uM3h2In0.9NbzjykXil1nELxQ1V8rkA';
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbHp3YnUyc2cwMTl3MmtweWo1MjU0cnQ3In0.kJvlxTy_K1nVvwR8y5O8xA';
         const map1 = new mapboxgl.Map({
         container: 'map1',
         style: 'mapbox://styles/mapbox/light-v11',
-        center: [-0.108968,51.492933],
-        zoom: 8
+        center: [-0.14166561287145382, 51.59097668916141],
+        zoom: 14
     });
     
     const geojson1 = {
@@ -70,11 +70,11 @@ if (document.getElementById('map1')) {
 }
 
 if (document.getElementById('map2')) {
-    mapboxgl.accessToken = 'pk.eyJ1IjoidGhlbWVzZmxhdCIsImEiOiJjbGt3NGxtYncwa2F2M21saHM3M21uM3h2In0.9NbzjykXil1nELxQ1V8rkA';
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbHp3YnUyc2cwMTl3MmtweWo1MjU0cnQ3In0.kJvlxTy_K1nVvwR8y5O8xA';
         const map2 = new mapboxgl.Map({
         container: 'map2',
         style: 'mapbox://styles/mapbox/light-v11',
-        center: [-0.108968,51.492933],
+        center: [-0.12139841658087784, 51.51555725675136],
         zoom: 14
     });
     
