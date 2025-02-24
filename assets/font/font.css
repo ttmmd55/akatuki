@@ -120,19 +120,19 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url('DancingScript-Bold.ttf');
+    src: url('TestTiemposFine-Bold.otf');
 }
 @font-face {
     font-family: 'Cirka Light';
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url('Cirka-Variable.ttf');
+    src: url('TestTiemposFine-Regular.otf');
 }
 @font-face {
     font-family: 'Oswald';
     font-style: normal;
     font-weight: normal;
     font-display: swap;
-    src: url('Oswald-Regular.ttf');
+    src: url('Avenir.ttc');
 }
