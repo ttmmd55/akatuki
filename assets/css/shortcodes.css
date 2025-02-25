@@ -3270,6 +3270,18 @@ form.form-search button {
     cursor: pointer;
 }
 
+#map2 .marker span,
+#map1 .marker span,
+#map .marker span {
+    position: absolute;
+    top: 50px;
+    left: 50%;  
+    transform: translateX(-50%); 
+    color: #c1a07b;
+    font-size: 14px;
+    white-space: nowrap; 
+    font-weight: bold; 
+}
 .mapboxgl-ctrl-attrib a,
 .mapboxgl-ctrl-attrib.mapboxgl-compact,
 a.mapboxgl-ctrl-logo {
