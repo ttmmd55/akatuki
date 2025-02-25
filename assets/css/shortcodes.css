@@ -3278,6 +3278,7 @@ form.form-search button {
     left: 50%;  
     transform: translateX(-50%); 
     color: #c1a07b;
+    font-family: 'DM Sans';
     font-size: 14px;
     white-space: nowrap; 
     font-weight: bold; 
