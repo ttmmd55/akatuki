@@ -144,7 +144,9 @@
 }
 .icon-rednote:before {
   content: "\ea93";
+  color: white;
 }
 .icon-tiktok:before {
   content: "\ea94";
+  color: white;
 }
