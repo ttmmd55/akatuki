@@ -1246,7 +1246,7 @@ a:focus {
 
 .header-left {
     padding: 41px 50px 42px 40px;
-    border-right: 1px solid #4e4a3d;
+    /* border-right: 1px solid #4e4a3d; */
     position: relative;
     display: flex;
     align-items: center;
@@ -1254,7 +1254,7 @@ a:focus {
 
 .header-right {
     padding: 34px 48px 36px 54px;
-    border-left: 1px solid #4e4a3d;
+    /* border-left: 1px solid #4e4a3d; */
     display: flex;
     align-items: center;
     gap: 30px;
@@ -1670,7 +1670,7 @@ a:focus {
     font-family: 'Cirka';
     font-weight: 600;
     font-size: 25px;
-    line-height: 30px;
+   
     color: #c6ac83;
     letter-spacing: 2px;
     padding: 0;

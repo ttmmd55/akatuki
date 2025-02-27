@@ -17,7 +17,7 @@ if (document.getElementById('map')){
                     coordinates: [-0.14166561287145382, 51.59097668916141]
                 },
                 properties: {
-                    title: 'Akatuki MUSWELL HILL'
+                    title: 'Akatuki Muswell Hill'
                 }
             },
             {
@@ -27,7 +27,7 @@ if (document.getElementById('map')){
                     coordinates: [-0.12139841658087784, 51.51555725675136]
                 },
                 properties: {
-                    title: 'Akatuki COVENT GARDEN'
+                    title: 'Akatuki Covent Garden'
                 }
             }
         ]
@@ -69,7 +69,7 @@ if (document.getElementById('map1')) {
                 coordinates: [-0.14166561287145382, 51.59097668916141]
             },
             properties: {
-                title: 'Akatuki MUSWELL HILL'
+                title: 'Akatuki Muswell Hill'
             }
             }
         ]
@@ -109,7 +109,7 @@ if (document.getElementById('map2')) {
                 coordinates: [-0.12139841658087784, 51.51555725675136]
             },
             properties: {
-                title: 'Akatuki COVENT GARDEN'
+                title: 'Akatuki Covent Garden'
             }
             }
         ]
