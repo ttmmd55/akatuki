@@ -1475,7 +1475,7 @@ form.form-search button {
     border-radius: 50%;
     left: -163px;
     top: 246px;
-    background-image: url(../images/item-background/snare-1.png);
+    /* background-image: url(../images/item-background/snare-1.png); */
     animation: rotate360 7s infinite linear ;
 }
 
