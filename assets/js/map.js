@@ -1,5 +1,5 @@
 if (document.getElementById('map')){
-    mapboxgl.accessToken = 'pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbHp3YnUyc2cwMTl3MmtweWo1MjU0cnQ3In0.kJvlxTy_K1nVvwR8y5O8xA';
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZnVmdTc3NTUiLCJhIjoiY203djZrbTh5MDhmaDJxcHNvMTV3aTJ3dyJ9.IEAilOiJyMn3cG3FZhburA';
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/light-v11',
@@ -51,7 +51,7 @@ if (document.getElementById('map')){
 }
 
 if (document.getElementById('map1')) {
-    mapboxgl.accessToken = 'pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbHp3YnUyc2cwMTl3MmtweWo1MjU0cnQ3In0.kJvlxTy_K1nVvwR8y5O8xA';
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZnVmdTc3NTUiLCJhIjoiY203djZrbTh5MDhmaDJxcHNvMTV3aTJ3dyJ9.IEAilOiJyMn3cG3FZhburA';
         const map1 = new mapboxgl.Map({
         container: 'map1',
         style: 'mapbox://styles/mapbox/light-v11',
@@ -91,7 +91,7 @@ if (document.getElementById('map1')) {
 }
 
 if (document.getElementById('map2')) {
-    mapboxgl.accessToken = 'pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbHp3YnUyc2cwMTl3MmtweWo1MjU0cnQ3In0.kJvlxTy_K1nVvwR8y5O8xA';
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZnVmdTc3NTUiLCJhIjoiY203djZrbTh5MDhmaDJxcHNvMTV3aTJ3dyJ9.IEAilOiJyMn3cG3FZhburA';
         const map2 = new mapboxgl.Map({
         container: 'map2',
         style: 'mapbox://styles/mapbox/light-v11',
