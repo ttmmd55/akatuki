@@ -149,7 +149,7 @@
     }
     .wg-fomr-book form .bot,
     .wg-fomr-book form .time, 
-    .wg-fomr-book form .hour, 
+    .wg-fomr-book form .hour,  
     .wg-fomr-book form .event-number {
         width: 23%;
     }
