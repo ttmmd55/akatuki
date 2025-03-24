@@ -954,6 +954,8 @@ form.form-search button {
 .page-title .content.text-center {
     text-align: center;
     background-image: url(../images/bg-section/akatuki-bg-home-1.JPG);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .page-title .content.text-center a {
