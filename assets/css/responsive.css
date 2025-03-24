@@ -202,11 +202,11 @@
     .wg-location.style-1 .widget-tabs img {
         width: 100%;
         height: 100%;
-        object-fit: contain;
+        object-fit: cover;
     }
     .wg-reservations.style-1 .image img {
         height: 771px;
-        object-fit: contain;
+        object-fit: cover;
     }
     .chef-item .content {
         padding-top: 50px;
@@ -303,7 +303,6 @@
     }
     .wg-about-us .image {
         margin-top: 30px;
-        object-fit: contain;
     }
 }
 
@@ -387,7 +386,6 @@
     }
     .wg-reservations .image {
         margin-top: 40px;
-        object-fit: contain;
     }
     .wg-location .box-map {
         height: 500px;
@@ -410,7 +408,6 @@
     .wg-reservations.style-1 .image img,
     .wg-location.style-1 .widget-tabs img {
         height: unset;
-        object-fit: contain;
     }
     .coming-soon-wrap {
         padding-top: 100px;
@@ -427,7 +424,6 @@
     .banner-page .content {
         padding-left: 15px;
         padding-right: 15px;
-        object-fit: contain;
     }
     .footer p,
     .footer-1 .logo-footer,
